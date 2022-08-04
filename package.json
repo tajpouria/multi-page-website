@@ -1,0 +1,23 @@
+{
+  "name": "multi-page-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gruximillian/multi-page-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gruximillian/multi-page-website/issues"
+  },
+  "homepage": "https://github.com/Gruximillian/multi-page-website#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
